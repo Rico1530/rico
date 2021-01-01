@@ -1,0 +1,156 @@
+html {
+  background: url(../images/programming.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-attachment: scroll;
+}
+
+.prof-box {
+  width: 450px;
+  height: 480px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  color: white;
+  margin: auto auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.prof-pic {
+  border-radius: 50%;
+  height: 200;
+  width: 180px;
+  border-style: inset;
+  border-color: gold;
+  border-width: 1.5px;
+}
+
+h1 {
+  font-style: Montserrat
+  font-weight: 75;
+  letter-spacing: 6;
+}
+
+h1:hover {
+  color: gold;
+}
+
+p {
+  font-weight: 100;
+  letter-spacing: 1;
+}
+
+.line-break {
+  border: dotted #eaf6f6 2px;
+  border-bottom: none;
+  width: 15%;
+  margin: 5px AUTO;
+}
+.social-icons {
+  font-size: 12px;
+  color: white;
+  margin: 1px 0;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.social-icons a {
+  color: #11999f;
+  margin: 1px 1px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.social-icons a:hover {
+  color: #ef8172;
+
+}
+.code-img{
+width: 15%;
+margin: 0 3px;
+}
+.copyright{
+  font-size: 7px;
+  text-align: left;
+  margin-top:25px;
+}
+
+
+Css
+
+html {
+  background: url(../images/programming.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-attachment: scroll;
+}
+
+.prof-box {
+  width: 450px;
+  height: 480px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+  color: white;
+  margin: auto auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.prof-pic {
+  border-radius: 50%;
+  height: 200;
+  width: 180px;
+  border-style: inset;
+  border-color: gold;
+  border-width: 1.5px;
+}
+
+h1 {
+  font-style: Montserrat
+  font-weight: 75;
+  letter-spacing: 6;
+}
+
+h1:hover {
+  color: gold;
+}
+
+p {
+  font-weight: 100;
+  letter-spacing: 1;
+}
+
+.line-break {
+  border: dotted #eaf6f6 2px;
+  border-bottom: none;
+  width: 15%;
+  margin: 5px AUTO;
+}
+.social-icons {
+  font-size: 12px;
+  color: white;
+  margin: 1px 0;
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.social-icons a {
+  color: #11999f;
+  margin: 1px 1px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+.social-icons a:hover {
+  color: #ef8172;
+
+}
+.code-img{
+width: 15%;
+margin: 0 3px;
+}
+.copyright{
+  font-size: 7px;
+  text-align: left;
+  margin-top:25px;
+}
